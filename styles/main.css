@@ -1,7 +1,23 @@
 body {
-	
+	font-family: Helvetica;
 }
 
 .heading {
-	position: center;
+	font-size: 24pt;
+}
+
+.experience {
+	background: white;
+	padding: 5px;
+	margin: 0;
+}
+
+.container ul li {
+	background: white;
+	font-size: 14pt;
+	color: #FDFDFD;
+}
+
+.container ul li ul li {
+	
 }
